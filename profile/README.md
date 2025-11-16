@@ -14,9 +14,9 @@ usage of control panels.
 - **Built for scale**: web deployment allows multiple users to access the system simultaneously
   without dedicated virtual machines or remote desktops.
 - **Extensive community support**: web technologies have one of the largest developer ecosystems,
-  offering libraries, tools, and best practices far beyond the scientific environment.
-- **Integration friendly**: easy to connect with authentication systems (LDAP), version control
-  (GitHub/GitLab), and other modern tools.
+  offering libraries, tools, and best practices that reach far beyond the scientific environment.
+- **Integration friendly**: easy to connect with authentication systems, external tools like GitHub
+  and GitLab and other modern tools.
 
 ---
 
